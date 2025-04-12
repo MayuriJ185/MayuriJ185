@@ -39,9 +39,9 @@ Key contributions:
 
 ## 📜 Certifications
 
-- 🟩 AWS Certified Developer – Associate (DVA-C01) 
-- 🟨 Salesforce Certified AI Associate  
-- 🟧 Google Cloud Workspace Administrator
+🎖️ AWS Certified Developer – Associate (DVA-C01) 
+🎖️ Salesforce Certified AI Associate  
+🎖️ Google Cloud Workspace Administrator
 
 ---
 
