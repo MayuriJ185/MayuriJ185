@@ -29,15 +29,11 @@ Key contributions:
 
 ## 💻 Skills
 
-**Cloud Proficiency:** AWS (EC2, S3, IAM, CloudWatch, Lambda, VPC, RedShift, Amazon RDS, DynamoDB, CloudFormation, CodePipeline)
-
-**Programming Language:** Python, Java, SQL
-
-**DevOps & Infrastructure as Code:** Linux, Terraform, Docker, Kubernetes, Jenkins, Git/GitHub, CI/CD Pipelines, Grafana
-
-**Database & Data Visualization:** MySQL, PostgreSQL, Tableau, Power BI
-
-**Methodologies:** Data Visualization, Database Management, Agile, Problem solving, Debugging, Object Oriented Programming
+- **Cloud Proficiency:** AWS (EC2, S3, IAM, CloudWatch, Lambda, VPC, RedShift, Amazon RDS, DynamoDB, CloudFormation, CodePipeline)
+- **Programming Language:** Python, Java, SQL
+- **DevOps & Infrastructure as Code:** Linux, Terraform, Docker, Kubernetes, Jenkins, Git/GitHub, CI/CD Pipelines, Grafana
+- **Database & Data Visualization:** MySQL, PostgreSQL, Tableau, Power BI
+- **Methodologies:** Data Visualization, Database Management, Agile, Problem solving, Debugging, Object Oriented Programming
 
 ---
 
