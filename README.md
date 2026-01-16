@@ -40,8 +40,11 @@ Key contributions:
 ## 📜 Certifications
 
 🎖️ AWS Certified Developer – Associate (DVA-C01) 
+
 🎖️ HashiCorp Terraform Associate 003 
+
 🎖️ Google Cloud Workspace Administrator  
+
 🎖️ Salesforce AI Associate 
  
 ---
