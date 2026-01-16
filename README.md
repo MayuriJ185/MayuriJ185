@@ -39,7 +39,8 @@ Key contributions:
 
 ## 📜 Certifications
 
-🎖️ AWS Certified Developer – Associate (DVA-C01)  
+🎖️ AWS Certified Developer – Associate (DVA-C01) 
+🎖️ HashiCorp Terraform Associate 003 
 🎖️ Google Cloud Workspace Administrator  
 🎖️ Salesforce AI Associate 
  
@@ -48,7 +49,7 @@ Key contributions:
 ## 📫 Connect with Me!
 
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:jadhavmayuri1808@gmail.com)  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mayuri-sanjay-jadhav-a9a1b219a)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mayuri-jadhav-a9a1b219a)  
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/MayuriJ185)  
 [![AWS Certifications](https://img.shields.io/badge/-AWS%20Certifications-232F3E?style=flat&logo=amazon-aws&logoColor=white)](https://www.credly.com/users/mayuri-jadhav.56cc5004)  
  
